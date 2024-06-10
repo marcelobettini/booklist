@@ -1,0 +1,62 @@
+[
+  {
+    "isbn": "978-0451524935",
+    "title": "1984",
+    "authors": ["George Orwell"],
+    "genres": ["Distopía", "Ciencia ficción"],
+    "publisher": "Signet Classic",
+    "year": 1950,
+    "summary": "Una novela distópica ambientada en una sociedad totalitaria gobernada por el Gran Hermano.",
+    "pageCount": 328,
+    "language": "Español",
+    "cover": "url_a_la_imagen_de_portada_1984"
+  },
+  {
+    "isbn": "978-0439139601",
+    "title": "Harry Potter y el cáliz de fuego",
+    "authors": ["J.K. Rowling"],
+    "genres": ["Fantasía", "Aventura"],
+    "publisher": "Scholastic",
+    "year": 2000,
+    "summary": "El cuarto libro de la serie Harry Potter, con el Torneo de los Tres Magos.",
+    "pageCount": 734,
+    "language": "Español",
+    "cover": "url_a_la_imagen_de_portada_harry_potter_caliz_de_fuego"
+  },
+  {
+    "isbn": "978-0140449136",
+    "title": "La Odisea",
+    "authors": ["Homero"],
+    "genres": ["Épico", "Clásico"],
+    "publisher": "Penguin Classics",
+    "year": -800,
+    "summary": "Un poema épico que sigue las aventuras de Odiseo mientras regresa a casa desde la Guerra de Troya.",
+    "pageCount": 560,
+    "language": "Español",
+    "cover": "url_a_la_imagen_de_portada_la_odisea"
+  },
+  {
+    "isbn": "978-0061120084",
+    "title": "Matar a un ruiseñor",
+    "authors": ["Harper Lee"],
+    "genres": ["Ficción", "Clásico"],
+    "publisher": "Harper Perennial Modern",
+    "year": 1960,
+    "summary": "Una novela sobre la injusticia racial en el sur de Estados Unidos vista a través de los ojos de una niña.",
+    "pageCount": 336,
+    "language": "Español",
+    "cover": "url_a_la_imagen_de_portada_matar_a_un_ruisenor"
+  },
+  {
+    "isbn": "978-0307474278",
+    "title": "El Gran Gatsby",
+    "authors": ["F. Scott Fitzgerald"],
+    "genres": ["Ficción", "Clásico"],
+    "publisher": "Scribner",
+    "year": 1925,
+    "summary": "Una novela sobre el sueño americano y la vida de Jay Gatsby en los años 20.",
+    "pageCount": 180,
+    "language": "Español",
+    "cover": "url_a_la_imagen_de_portada_el_gran_gatsby"
+  }
+]

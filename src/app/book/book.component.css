@@ -1,0 +1,45 @@
+header {
+  text-align: center;
+  margin: 20px 0;
+}
+.book-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+.book-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+.book-card:hover {
+  transform: translateY(-5px);
+}
+.book-cover {
+  height: 400px;
+  object-fit: cover;
+  width: 100%;
+}
+.book-details {
+  padding: 15px;
+}
+.book-details h2 {
+  font-size: 1.5em;
+  margin: 0 0 10px;
+}
+.book-details p {
+  font-size: 0.9em;
+  line-height: 1.5;
+  margin: 5px 0;
+}
+.book-details p strong {
+  font-weight: 600;
+}
